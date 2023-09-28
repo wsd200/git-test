@@ -9,6 +9,7 @@ public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("Hello,World!");
         System.out.println("Hello,Wsd!");
+        System.out.println("Hello,明天会好的！");
     }
 }
 
